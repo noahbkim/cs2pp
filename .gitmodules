@@ -1,0 +1,8 @@
+[submodule "vendor/GameTracking-CS2"]
+	path = vendor/GameTracking-CS2
+	url = git@github.com:SteamDatabase/GameTracking-CS2
+	shallow = true
+[submodule "vendor/nanobind"]
+	path = vendor/nanobind
+	url = git@github.com:wjakob/nanobind
+	shallow = true

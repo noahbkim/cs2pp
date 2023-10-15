@@ -1,0 +1,10 @@
+[requires]
+protobuf/3.21.12
+abseil/20230125.3
+argparse/2.9
+gtest/1.12.1
+# doxygen/1.9.4
+
+[generators]
+CMakeDeps
+CMakeToolchain

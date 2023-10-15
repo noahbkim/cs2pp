@@ -1,0 +1,32 @@
+/local
+/docs
+/.idea
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+CMakeUserPresets.json
+Makefile
+cmake_install.cmake
+cmake-build-*
+
+# Conan
+/conan-build-release
+/conan-build-debug
+
+# VSC++
+*.vcxproj
+*.vcxproj.filters
+*.sln
+/csgopp.dir
+/Debug
+/Release
+/x64
+/x86
+
+# Conan
+conan.lock
+conanbuildinfo.cmake
+conanbuildinfo.txt
+conaninfo.txt
+graph_info.json
